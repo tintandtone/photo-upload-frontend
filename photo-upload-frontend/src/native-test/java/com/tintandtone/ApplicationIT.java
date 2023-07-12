@@ -3,6 +3,6 @@ package com.tintandtone;
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 
 @QuarkusIntegrationTest
-public class ExampleResourceIT extends ExampleResourceTest {
+public class ApplicationIT extends ApplicationTest {
     // Execute the same tests but in packaged mode.
 }
