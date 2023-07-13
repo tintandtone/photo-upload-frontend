@@ -1,0 +1,5 @@
+quarkus:
+  s3:
+    region: your-s3-region
+    access-key-id: your-access-key-id
+    secret-access-key: your-secret-access-key
